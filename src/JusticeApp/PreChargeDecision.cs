@@ -1,6 +1,4 @@
-using System;
-
-namespace HarmelLaw.JusticeApp
+namespace JusticeApp
 {
     public class PreChargeDecision
     {
